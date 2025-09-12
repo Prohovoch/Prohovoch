@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prohovoch
-- 👀 I’m interested in system development, interested in developing software and applications/systems using some frameworks.
-- 💞️ I’m looking to collaborate on projects in a future (backend systems/cli/native)
+- 👀 I’m interested in system development, interested in developing software and applications/systems.
+- 💞️ I’m looking to collaborate on projects in a future (backend systems/cli/native or web)
 - 📫 How to reach me (will be added soon)
 - 😄 No pronouns :(
 - ⚡ Fun fact: .-.
