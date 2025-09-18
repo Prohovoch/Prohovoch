@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prohovoch
 - 👀 I’m interested in system development, interested in developing IOT
-- 💞️ I’m looking to create a cool stuff in a future Like fullstack web apps and an IOT like a hobby (on C/C++/Python/Go +Js)
+- 💞️ I’m looking to create a cool stuff by making an apps on C/C++/Python/ +Js
 - 📫 How to reach me (will be added soon)
 - 😄 No pronouns :(
 - ⚡ Fun fact: .-.
